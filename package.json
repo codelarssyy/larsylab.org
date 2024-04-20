@@ -1,11 +1,11 @@
 {
-  "name": "ven-earth",
+  "name": "larsylab-org",
   "description": "My personal website.",
-  "homepage": "https://ven.earth",
-  "repository": "github:ven/ven-earth",
+  "homepage": "https://larsylab.org",
+  "repository": "github:codelarssyy/larsylab.org",
   "version": "1.0.0",
   "private": true,
-  "author": "ven <v@ven.earth>",
+  "author": "Larsy <contactme@larsylab.org>",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

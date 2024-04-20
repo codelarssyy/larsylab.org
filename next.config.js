@@ -8,17 +8,17 @@ module.exports = {
     return [
       {
         source: '/github',
-        destination: 'https://github.com/ven',
+        destination: 'https://github.com/larssyy',
         permanent: true,
       },
       {
         source: '/twitter',
-        destination: 'https://twitter.com/venolol',
+        destination: 'https://twitter.com/ContactLarssyy',
         permanent: true,
       },
       {
         source: '/discord',
-        destination: 'https://discord.com/users/204616460797083648',
+        destination: 'https://discord.com/users/1089191436475449455',
         permanent: true,
       },
     ]

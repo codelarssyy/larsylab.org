@@ -18,20 +18,6 @@ export const RouteData: Route[] = [
     href: '/projects',
   },
   {
-    name: 'blog',
-    href: '/blog',
-  },
-  {
-    name: 'anime',
-    href: '/anime',
-    type: 'dropdown',
-  },
-  {
-    name: 'setup',
-    href: '/setup',
-    type: 'dropdown',
-  },
-  {
     name: 'albums',
     href: '/albums',
     type: 'dropdown',
